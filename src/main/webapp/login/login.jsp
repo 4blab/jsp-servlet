@@ -17,7 +17,7 @@
 			<p>userID <input type="text" name="userId" value="adidasGirl"></p>
 			<p>userID <input type="text" name="userId" value="아디다스소녀"></p>
 			<p>password <input type="password" name="password" value="pass1234"></p>
-			<p><input type="submit" value="로그인"></p>
+			<p><input type="submit" value="로그인"> </p>
 		</form>
 	</div>
 </body>

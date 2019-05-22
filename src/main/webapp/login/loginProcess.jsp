@@ -37,7 +37,6 @@
 	%>
 		userIdsFromMap : <%=userId%><br>
 	<%}%>	
-	
 	<% for(String password : passwords){%>
 		passwordsFromMap : <%=password%><br>
 	<%}%>
